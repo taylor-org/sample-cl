@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "declaration": true,
+    "diagnostics": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "target": "es5",
+    "strictNullChecks": true
+  }
+}
